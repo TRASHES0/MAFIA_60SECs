@@ -1,0 +1,4 @@
+﻿debuff_name,debuff_image,debuff_explanation,debuff_type
+다리 부상,다리부상.png,다리에 부상이 생겨 이동 속도가 감소한다.,speed_down
+손 부상,손부상.png,손에 부상이 생겨 수색 속도가 감소한다.,farming_up
+중독,중독.png,알수 없는 무언가에 중독되어 더 많은 배고픔을 느낀다.,hungry_up
